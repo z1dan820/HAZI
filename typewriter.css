@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'GraffitiFont';
+  src: url('../assets/graffiti-font.ttf') format('truetype');
+  /* Path to your graffiti font file */
+  font-weight: normal;
+  font-style: normal;
+}
